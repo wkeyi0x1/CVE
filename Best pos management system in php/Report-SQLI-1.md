@@ -61,6 +61,6 @@ Content-Type: image/png
 
 give the result as follows
 
-![4](/img/Best-pos-management-system-in-php/9.png)
+![4](/img/Best-pos-management-system-in-php/10.png)
 
 Successfully triggered a delay of about 15 seconds!
