@@ -20,7 +20,7 @@ Location of SQL injection vulnerabilities in source code: Lines 165 to 174 in ad
 
 Sqlmap Payload:sqlmap -r post2 --dbms=mysql -v 3
 
-![3](/img/Best-pos-management-system-in-php/6.png)
+![3](/img/Best-pos-management-system-in-php/10.png)
 
 Note: I added * after the 'filename' parameter in POST2 to tell sqlmap where to inject the parameter, which is not shown in the figure
 
@@ -61,6 +61,6 @@ Content-Type: image/png
 
 give the result as follows
 
-![4](/img/Best-pos-management-system-in-php/10.png)
+![4](/img/Best-pos-management-system-in-php/9.png)
 
 Successfully triggered a delay of about 15 seconds!
